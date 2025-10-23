@@ -33,7 +33,7 @@ $(document).ready(function () {
   });
 
   var typed = new Typed(".typing-2", {
-    strings: ["Especialista Digital e Gestora de Mídias Sociais."],
+    strings: ["Estrategista Digital e Gestora de Marcas."],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true,
